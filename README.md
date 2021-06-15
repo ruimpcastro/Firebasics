@@ -9,3 +9,9 @@ firebase login
 firebase init
 firebase emulators:start
 firebase deploy
+
+### Firebase NPM
+https://www.npmjs.com/package/firebase
+
+### Firebase Documentation
+https://firebase.google.com/docs
