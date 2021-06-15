@@ -5,9 +5,13 @@ Firebase basics
 
 ### Firebase CLI commands
 npm install firebase-tools -g
+
 firebase login
+
 firebase init
+
 firebase emulators:start
+
 firebase deploy
 
 ### Firebase NPM
