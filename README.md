@@ -4,6 +4,8 @@ Firebase basics
 **For VSCode:** Install Firebase Explorer
 
 ### Firebase CLI commands
+https://firebase.google.com/docs/cli
+
 npm install firebase-tools -g
 
 firebase login
