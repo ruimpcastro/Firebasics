@@ -46,7 +46,7 @@ auth.onAuthStateChanged((user) => {
       const { serverTimestamp } = firebase.firestore.FieldValue;
       thingsRef.add({
         uid: user.uid,
-        name: "Noice",
+        name: "wololo",
         createdAt: serverTimestamp(),
       });
     };
